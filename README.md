@@ -25,3 +25,9 @@ This repository uses [Docsify](https://docsify.js.org) for generating documentat
    ```
 3. Now you can preview documentation site in your browser by visiting `http://localhost:3000`.
 
+### Dependencies
+express
+live-server
+mongoose
+pg
+docsify-cli
